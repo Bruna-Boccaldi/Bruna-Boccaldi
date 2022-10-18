@@ -1,4 +1,4 @@
-👋Ola, sou a Bruna!
+<div style="dispay:👋Ola, sou a Bruna!" /div>
 
 <div align="center">
   <a href="https://github.com/Bruna-Boccaldi">

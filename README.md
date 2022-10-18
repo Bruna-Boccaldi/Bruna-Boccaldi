@@ -1,4 +1,4 @@
-<div 👋Ola, sou a Bruna! /div>
+<h1 👋Ola, sou a Bruna! /h1>
 
 <div align="center">
   <a href="https://github.com/Bruna-Boccaldi">

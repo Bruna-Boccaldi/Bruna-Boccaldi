@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Bruna-Boccaldi
-- 👀 I’m interested in learning new programming languages.
-- 🌱 I’m currently learning Java
+👋Ola, sou a Bruna!
 
 <div align="center">
   <a href="https://github.com/Bruna-Boccaldi">
